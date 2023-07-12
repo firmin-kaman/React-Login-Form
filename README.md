@@ -1,6 +1,6 @@
 # A Good Sliding Sign In & Sign Up Form Using React JS
 
-My Git Account:
+My Github Account:
 https://github.com/firmin-kaman
 
 My Linkedin:
