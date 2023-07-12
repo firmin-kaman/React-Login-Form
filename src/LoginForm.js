@@ -30,7 +30,7 @@ function LoginForm() {
         <MyStyle.Container>
             <MyStyle.SignUpContainer signinIn={signIn}>
                 <MyStyle.Form onSubmit={Login}>
-                    <MyStyle.Title id="signin">Sign Up</MyStyle.Title>
+                    <MyStyle.Title id="signin">Create Account</MyStyle.Title>
                     <MyStyle.Input type='text' placeholder='Name' required/>
                     <MyStyle.Input type='email' placeholder='Email' required onChange={e => setEmail(e.target.value)}/>
                     <MyStyle.Input type='password' placeholder='Password' required onChange={e => setPassword(e.target.value)}/>
